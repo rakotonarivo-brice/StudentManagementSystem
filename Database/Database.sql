@@ -6,6 +6,7 @@ students and a department offers multiple courses. A course can be offered
 by a single department or multiple department. Draw an ERD for the stated
 scenario.
 
+
 */
 
 

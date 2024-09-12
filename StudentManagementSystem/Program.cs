@@ -40,6 +40,7 @@ internal class Program
             choice = Console.ReadKey().KeyChar;
             Console.Clear();
 
+
             switch (choice)
             {
                 case '1':
